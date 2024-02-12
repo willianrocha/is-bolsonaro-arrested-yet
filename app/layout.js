@@ -1,5 +1,4 @@
 import footer from "../components/footer/footer";
-import clock from "../components/clock/clock";
 
 export const metadata = {
   title: 'Bolsonaro Preso Amanhã',
